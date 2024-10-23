@@ -1,0 +1,8 @@
+jupyterlab==4.2.5
+geopandas==1.0.1
+shapely==2.0.6
+folium==0.18.0
+matplotlib==3.9.2
+pysal==24.7
+esda
+libpysal
