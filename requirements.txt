@@ -1,8 +1,8 @@
-jupyterlab==4.2.5
-geopandas==1.0.1
-shapely==2.0.6
-folium==0.18.0
-matplotlib==3.9.2
-pysal==24.7
-esda
-libpysal
+esda~=2.6.0                             # ESDA is a Python library for exploratory spatial data analysis.
+folium~=0.18.0                          # Folium is a Python library that makes it easy to visualize data that's been manipulated in Python on an interactive leaflet map.
+geopandas>=1.0.0                        # Geopandas is a Python library that makes working with geospatial data in Python easier.
+jupyterlab==4.2.5                       # JupyterLab is the next-generation web-based user interface for Project Jupyter.
+libpysal~=4.12.1                         # Libpysal is a Python library for spatial analysis in Python.
+matplotlib~=3.9.2                       # Matplotlib is a Python library for creating static, animated, and interactive visualizations in Python.
+pysal~=24.7                             # PySAL is an open-source library for spatial analysis in Python.
+shapely~=2.0.6                          # Shapely is a Python package for manipulation and analysis of planar geometric objects.     
